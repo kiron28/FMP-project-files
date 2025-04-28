@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de33f4a7027bbf54fbdacbf760a5634c, type: 3}
+  m_Name: Blunt edge
+  m_EditorClassIdentifier: 
+  name: Blunt edge
+  description: 
+  weaponsprite: {fileID: 0}
+  weaponType: {fileID: 11400000, guid: 57a32eddf531c5542907e62482a90849, type: 2}
+  maxhp: 0
+  atk: 4
+  eleatk: 0
+  def: 0
+  eledef: 0
+  agi: 0
+  maxstam: 0
+  learnableSkill:
+  - skillTemplate: {fileID: 11400000, guid: 9e6a3d8b0cd5e314883e9dd45d3ec24a, type: 2}
+    level: 1
+  - skillTemplate: {fileID: 11400000, guid: 4082e1f64121a7140a4adaca5b6d9a84, type: 2}
+    level: 2
+  - skillTemplate: {fileID: 11400000, guid: 63e42e4f4c9ba2946b82465c42c69c7b, type: 2}
+    level: 7
+  - skillTemplate: {fileID: 11400000, guid: 616586d9860b1e5448a4adc37e24e0a1, type: 2}
+    level: 10

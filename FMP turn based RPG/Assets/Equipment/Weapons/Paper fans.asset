@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de33f4a7027bbf54fbdacbf760a5634c, type: 3}
+  m_Name: Paper fans
+  m_EditorClassIdentifier: 
+  name: Paper fans
+  description: 
+  weaponsprite: {fileID: 0}
+  weaponType: {fileID: 11400000, guid: 57a32eddf531c5542907e62482a90849, type: 2}
+  maxhp: 0
+  atk: -3
+  eleatk: 4
+  def: 0
+  eledef: 0
+  agi: 3
+  maxstam: 10
+  learnableSkill:
+  - skillTemplate: {fileID: 11400000, guid: 67a11d4605695f142b5673f381a972c7, type: 2}
+    level: 1
+  - skillTemplate: {fileID: 11400000, guid: 54f972e725242ec4cb3c800da1e9ae29, type: 2}
+    level: 2
+  - skillTemplate: {fileID: 11400000, guid: 13f4e49bc86a32a4597d2cf998541a79, type: 2}
+    level: 7
+  - skillTemplate: {fileID: 11400000, guid: a4ccf945b0130de45a0e3b7e81fbf6fb, type: 2}
+    level: 10

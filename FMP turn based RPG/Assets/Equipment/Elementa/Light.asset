@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbe6d911a457ecc4aae411e5d5bfedb2, type: 3}
+  m_Name: Light
+  m_EditorClassIdentifier: 
+  name: Light
+  description: 
+  elementasprite: {fileID: 0}
+  elementaType: {fileID: 11400000, guid: 14ed1638397df07439b72f477df38984, type: 2}
+  maxhp: 0
+  atk: 0
+  eleatk: 3
+  def: 0
+  eledef: 0
+  agi: 0
+  maxstam: 0
+  learnableSkill:
+  - skillTemplate: {fileID: 11400000, guid: 2b9921b2251c56743bdb1af39b3aae27, type: 2}
+    level: 1

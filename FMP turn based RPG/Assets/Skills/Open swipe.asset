@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f614837743fc84498eaf70245a58b92, type: 3}
+  m_Name: Open swipe
+  m_EditorClassIdentifier: 
+  name: Open swipe
+  description: Sword user find opening in opponent's defence to deal larger damage.
+  power: 40
+  stamina: 7
+  category: 0
+  skillType: {fileID: 11400000, guid: 57a32eddf531c5542907e62482a90849, type: 2}
+  effects:
+    change: []
+  target: 0

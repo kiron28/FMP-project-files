@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de33f4a7027bbf54fbdacbf760a5634c, type: 3}
+  m_Name: Rogue bow
+  m_EditorClassIdentifier: 
+  name: Rogue bow
+  description: 
+  weaponsprite: {fileID: 0}
+  weaponType: {fileID: 0}
+  maxhp: 0
+  atk: 3
+  eleatk: 1
+  def: 0
+  eledef: 0
+  agi: 5
+  maxstam: 0
+  learnableSkill:
+  - skillTemplate: {fileID: 11400000, guid: 8c5fc2ace97bef741bb33b6a748b7a14, type: 2}
+    level: 1
+  - skillTemplate: {fileID: 11400000, guid: 6ab4c9e2e9f3ab446b7e2f2c7ca3d12f, type: 2}
+    level: 2
+  - skillTemplate: {fileID: 11400000, guid: b3d55b3fd4f0840419ee08a75dadd21f, type: 2}
+    level: 7
+  - skillTemplate: {fileID: 11400000, guid: df83aae679a87a44f89e468dc0721047, type: 2}
+    level: 10

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 084a6e9df11ca3e41abb77bc00ee438f, type: 3}
+  m_Name: Test water armour
+  m_EditorClassIdentifier: 
+  name: Water plate
+  description: 
+  elementasprite: {fileID: 0}
+  maxhp: 0
+  atk: 0
+  eleatk: 0
+  def: 0
+  eledef: 0
+  agi: 0
+  maxstam: 0
+  weakness:
+  - {fileID: 11400000, guid: 86c3d9c56a831c148bc8034608a8ed36, type: 2}
+  - {fileID: 11400000, guid: 0a773ae5fa4292f4ba558aff15b82e34, type: 2}
+  - {fileID: 11400000, guid: 57a32eddf531c5542907e62482a90849, type: 2}
+  resistance:
+  - {fileID: 11400000, guid: 800dc0b4cd8507c498d6b21efabad98a, type: 2}
+  - {fileID: 11400000, guid: 47128d01eee756149a3f816815917a73, type: 2}
+  - {fileID: 11400000, guid: be261cc9791214344b6fa5c4e42ac82d, type: 2}
+  immuniy:
+  - {fileID: 11400000, guid: 1851ed9b75795c648aac65f3e080fa71, type: 2}

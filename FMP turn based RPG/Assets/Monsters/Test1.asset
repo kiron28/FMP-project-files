@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b89fbb146d04d94caf415bbcd66c45c, type: 3}
+  m_Name: Test1
+  m_EditorClassIdentifier: 
+  name: Cool ass square test
+  description: This is a test. Cool right?
+  charactersprite: {fileID: -2135585597343286014, guid: 4b2a04fdbe0ef4d8da8f90eaca817cd1, type: 3}
+  maxhp: 15
+  atk: 2
+  eleatk: 2
+  def: 6
+  eledef: 2
+  agi: 2
+  maxstam: 10
+  expYield: 80
+  basicAttack: {fileID: 11400000, guid: 13ebf842f975a4b418d53a4f5d708e78, type: 2}
+  weapon: {fileID: 11400000, guid: 100b87b60cb6a534682c10262fd2fe5c, type: 2}
+  elementa: {fileID: 11400000, guid: 3a0347bb344772c47b77fa5b5224ca69, type: 2}
+  armour: {fileID: 11400000, guid: 57bbe98184af900499dd5a36ae03a71b, type: 2}
+  learnableSkill:
+  - skillTemplate: {fileID: 11400000, guid: efc7810964e9e4247abe2b645f539d5f, type: 2}
+    level: 1
+  - skillTemplate: {fileID: 11400000, guid: 6d607cc627eceea4280353781014444a, type: 2}
+    level: 1
+  weakness:
+  - {fileID: 11400000, guid: 57a32eddf531c5542907e62482a90849, type: 2}
+  resistance:
+  - {fileID: 11400000, guid: 800dc0b4cd8507c498d6b21efabad98a, type: 2}
+  immunity: []

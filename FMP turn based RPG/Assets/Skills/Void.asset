@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f614837743fc84498eaf70245a58b92, type: 3}
+  m_Name: Void
+  m_EditorClassIdentifier: 
+  name: Void
+  description: deals small dark elementa damage.
+  power: 30
+  stamina: 5
+  category: 0
+  skillType: {fileID: 11400000, guid: 0a773ae5fa4292f4ba558aff15b82e34, type: 2}
+  effects:
+    change: []
+  target: 0

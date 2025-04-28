@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de33f4a7027bbf54fbdacbf760a5634c, type: 3}
+  m_Name: Stone axe
+  m_EditorClassIdentifier: 
+  name: Stone axe
+  description: 
+  weaponsprite: {fileID: 0}
+  weaponType: {fileID: 0}
+  maxhp: 0
+  atk: 6
+  eleatk: 0
+  def: 0
+  eledef: 0
+  agi: -2
+  maxstam: 0
+  learnableSkill:
+  - skillTemplate: {fileID: 11400000, guid: fb6e5b227ddd0e8409260c39a835b1df, type: 2}
+    level: 1
+  - skillTemplate: {fileID: 11400000, guid: 19d98e273d43a65429eedee3805f0643, type: 2}
+    level: 2
+  - skillTemplate: {fileID: 11400000, guid: 1ae9b03d377db0d4e9494db163edb399, type: 2}
+    level: 7
+  - skillTemplate: {fileID: 11400000, guid: 1a5ae3920ff02804795ace1fdd36d6b6, type: 2}
+    level: 10
