@@ -49,7 +49,7 @@ public class ItemSelect : MonoBehaviour
             removedW = menu.ActiveMember.weapon;
             menu.ActiveMember.weapon = inventoryW.weaponlist[0];
             equippedW = menu.ActiveMember.weapon;
-            inventoryW.weaponlist.Remove(equippedW);
+            
             if (removedW != noneW)
             {
                 inventoryW.weaponlist.Add(removedW);
@@ -63,7 +63,7 @@ public class ItemSelect : MonoBehaviour
             removedE = menu.ActiveMember.elementa;
             menu.ActiveMember.elementa = inventoryE.elementalist[0];
             equippedE = menu.ActiveMember.elementa;
-            inventoryE.elementalist.Remove(equippedE);
+            
             if (removedE != noneE)
             {
                 inventoryE.elementalist.Add(removedE);
@@ -77,7 +77,7 @@ public class ItemSelect : MonoBehaviour
             removedA = menu.ActiveMember.armour;
             menu.ActiveMember.armour = inventoryA.armourlist[0];
             equippedA = menu.ActiveMember.armour;
-            inventoryA.armourlist.Remove(equippedA);
+            
             if (removedA != noneA)
             {
                 inventoryA.armourlist.Add(removedA);

@@ -34,8 +34,6 @@ MonoBehaviour:
     level: 1
   - skillTemplate: {fileID: 11400000, guid: 666efff02c253ff4f8bec32b66d7d0d5, type: 2}
     level: 1
-  - skillTemplate: {fileID: 11400000, guid: 666efff02c253ff4f8bec32b66d7d0d5, type: 2}
-    level: 1
   weakness:
   - {fileID: 11400000, guid: 47128d01eee756149a3f816815917a73, type: 2}
   - {fileID: 11400000, guid: 1851ed9b75795c648aac65f3e080fa71, type: 2}

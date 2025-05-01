@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\FMP project\\FMP turn based RPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\HUD scripts\\Item Select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HUD scripts\\Item Select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Dialogue event scripts\\Goliath Fight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Dialogue event scripts\\Goliath Fight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Tutorial Script\\Menu Tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Tutorial Script\\Menu Tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\HUD scripts\\Item Select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HUD scripts\\Item Select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Dialogue event scripts\\Maze event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -198,11 +198,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Goliath Fight.cs",
               "DocumentMoniker": "E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Dialogue event scripts\\Goliath Fight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue event scripts\\Goliath Fight.cs",
@@ -215,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Goliath find.cs",
               "DocumentMoniker": "E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Dialogue event scripts\\Goliath find.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue event scripts\\Goliath find.cs",
@@ -223,8 +223,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Dialogue event scripts\\Goliath find.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T16:51:00.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T16:51:00.569Z"
             },
             {
               "$type": "Document",
@@ -276,15 +275,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Item Select.cs",
               "DocumentMoniker": "E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\HUD scripts\\Item Select.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HUD scripts\\Item Select.cs",
               "ToolTip": "E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\HUD scripts\\Item Select.cs",
               "RelativeToolTip": "Assets\\Scripts\\HUD scripts\\Item Select.cs",
-              "ViewState": "AgIAAAoCAAAAAAAAAADwvwMCAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAE8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T18:23:50.371Z"
+              "WhenOpened": "2025-03-13T18:23:50.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -300,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Menu Tutorial.cs",
               "DocumentMoniker": "E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Tutorial Script\\Menu Tutorial.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tutorial Script\\Menu Tutorial.cs",
@@ -347,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "test 1 dialogue.cs",
               "DocumentMoniker": "E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Dialogue event scripts\\test 1 dialogue.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue event scripts\\test 1 dialogue.cs",
@@ -355,12 +355,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Dialogue event scripts\\test 1 dialogue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:57:21.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T20:57:21.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Game controller.cs",
               "DocumentMoniker": "E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Exp \u0026 gplay scripts\\Game controller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exp \u0026 gplay scripts\\Game controller.cs",
@@ -368,8 +367,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Exp \u0026 gplay scripts\\Game controller.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T02:20:09.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T02:20:09.795Z"
             },
             {
               "$type": "Document",
@@ -385,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Enemy.cs",
               "DocumentMoniker": "E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Enemy scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy scripts\\Enemy.cs",
@@ -393,12 +391,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemy scripts\\Enemy.cs",
               "ViewState": "AgIAAFgBAAAAAAAAAIBJwHgBAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T23:19:16.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T23:19:16.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BattleSystem.cs",
               "DocumentMoniker": "E:\\FMP project\\FMP turn based RPG\\Assets\\Scripts\\Exp \u0026 gplay scripts\\BattleSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exp \u0026 gplay scripts\\BattleSystem.cs",

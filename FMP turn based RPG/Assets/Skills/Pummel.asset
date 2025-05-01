@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f614837743fc84498eaf70245a58b92, type: 3}
   m_Name: Pummel
   m_EditorClassIdentifier: 
-  name: 
+  name: Pummel
   description: 
   power: 50
   stamina: 0
